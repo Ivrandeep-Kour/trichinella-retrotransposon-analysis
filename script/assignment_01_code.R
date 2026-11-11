@@ -15,6 +15,7 @@ conflicted::conflicts_prefer(dplyr::filter())
 library(viridis)
 # + scale_color/fill_viridis_c/d()
 theme_set(theme_light())
+#karan
 
 # Startup ends here
 
